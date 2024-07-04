@@ -39,7 +39,7 @@ df command in Linux is used to display information about the file system's disk 
 df command provides an overview of the disk space usage on the entire file system.
 du command reports the disk space usage of files and directories.
 17. **Question 17:**
-ps -eo pid,ppid,cmd,%mem,%cpu --sort=-%cpu | head
+ps -eo pid,ppid,cmd,%mem,%cpu --sort=-%cpu | head.
 18. **Question 18:**
 alias can save time and effort by reducing the amount of typing required, preventing repetitive tasks.
 19. **Question 19:**
